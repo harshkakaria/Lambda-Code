@@ -23,7 +23,7 @@ endfunc
 # data types
 
 
-string name = "rick"
+string name = "Rick"
 
 int name = 7 (32bits int)
 
